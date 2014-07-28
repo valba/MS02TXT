@@ -1,14 +1,3 @@
-#!/usr/bin/ruby
-# Read a .MS0 file and extract data to a .txt file.
-# Argument list:
-#   $1 = experimental.MS0 input spectrum file
-#   $2 = experimental.sxt output spectrum file
-# Output:
-#   out_filename, center, minimum and maximum
-
-ccdArray = []
-wvArray = []
-valentin@dirac:~/RESEARCH/NANOTUBOS/nC_1/SPECTRA$ cat ~/DEV/GIT/raman/spec_gen.sh 
 #!/bin/bash 
 # Read a .MS0 file and extract data to SPECTRA directory.
 # Argument list: 
