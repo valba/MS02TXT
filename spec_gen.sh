@@ -1,5 +1,5 @@
 #!/bin/bash 
-# Read a .MS0 file and extract data to SPECTRA directory.
+# Read a Dilor .MS0 file and extract data to SPECTRA directory.
 # Argument list: 
 #   $1 = MS0 file
 # Output files:
